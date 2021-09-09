@@ -1,4 +1,4 @@
-#### Reference implementation for "Desiderata for Representation Learning: A Causal Perspective"
+## Reference implementation for "Desiderata for Representation Learning: A Causal Perspective"
 
 
 This repository contains the code for 
