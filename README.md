@@ -10,4 +10,4 @@ This repository contains the code for
 
 #### References
 
-Wang, Y., & Jordan, M.I. (2021) Desiderata for Representation Learning: A Causal Perspective. arXiv preprint arXiv:2109.03795. [[link](http://arxiv.org/abs/2109.03795)] 
+Wang, Y., & Jordan, M.I. (2021) Desiderata for Representation Learning: A Causal Perspective. _arXiv preprint arXiv:2109.03795_. [[link](http://arxiv.org/abs/2109.03795)] 
