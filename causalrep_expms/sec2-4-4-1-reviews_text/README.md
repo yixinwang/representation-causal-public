@@ -17,3 +17,6 @@ Finally, run `src/run_causaltext_reviews.sh` which executes
 
 The `res/` folder contains the aggregated output and the corresponding
 figures and tables.
+
+The preprocessed text data for Section 2.4.4 is also available at
+https://www.dropbox.com/sh/sd7ezkgwl110afn/AACVEXEhj8JXohRi119ZhHb_a?dl=0Reference

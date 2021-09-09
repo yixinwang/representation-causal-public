@@ -16,3 +16,5 @@ study is quite sensitive to initialization. The `res/` folder contains
 the the parameter configurations and output files that produces the
 result.
 
+The preprocessed text data for Section 2.4.4 is also available at
+https://www.dropbox.com/sh/sd7ezkgwl110afn/AACVEXEhj8JXohRi119ZhHb_a?dl=0Reference
