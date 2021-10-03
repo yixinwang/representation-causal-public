@@ -19,4 +19,4 @@ result.
 The preprocessed text data for Section 2.4.4 is also available at
 https://www.dropbox.com/sh/sd7ezkgwl110afn/AACVEXEhj8JXohRi119ZhHb_a?dl=0Reference
 
-The code of this repository builds on https://github.com/tapilab/aaai-2021-counterfactuals
+This implementation builds on https://github.com/tapilab/aaai-2021-counterfactuals
