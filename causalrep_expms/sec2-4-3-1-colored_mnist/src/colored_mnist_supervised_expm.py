@@ -215,7 +215,7 @@ for restart in range(flags.n_restarts):
             print("itr", np.int32(step),
             "train_baselinenll", train_baselinenll.detach().cpu().numpy(),
             "train_baselineacc", train_baselineacc.detach().cpu().numpy(),
-            "test_baselinenll", train_baselinenll.detach().cpu().numpy(),
+            "test_baselinenll", test_baselinenll.detach().cpu().numpy(),
             "test_baselineacc", test_baselineacc.detach().cpu().numpy())
 
 
